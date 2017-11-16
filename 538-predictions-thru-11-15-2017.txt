@@ -1,0 +1,458 @@
+11/15/2017
+SAC	Kings		.37	80
+ATL	Hawks	-3.5	.63	126
+UTAH	Jazz		.43	101
+NY	Knicks	-1.5	.57	106
+WSH	Wizards		.44	102
+MIA	Heat	-1.5	.56	93
+CHI	Bulls	.09	79
+OKC	Thunder	-14	.91	92
+CLE	Cavaliers		.41	115
+CHA	Hornets	-2.5	.59	107
+DET	Pistons		.33	95
+MIL	Bucks	-4.5	.67	99
+IND	Pacers		.30	116
+MEM	Grizzlies	-5	.70	113
+SA	Spurs		.32	86
+MIN	Timberwolves	-4.5	.68	98
+TOR	Raptors		.38	125
+NO	Pelicans	-3	.62	116
+ORL	Magic		.31	94
+POR	TrailBlazers	-5	.69	99
+PHI	76ers		.49	115
+LAL	Lakers	PK	.51	109
+11/14/2017
+BOS	Celtics	-6	.72	109
+BKN	Nets		.28	102
+TOR	Raptors		.21	129
+HOU	Rockets	-8	.79	113
+SA	Spurs	-3.5	.64	97
+DAL	Mavericks		.36	91
+11/13/2017
+SAC	Kings		.15	92
+WSH	Wizards	-10.5	.85	110
+CLE	Cavaliers	PK	.50	104
+NY	Knicks		.50	101
+ATL	Hawks		.14	105
+NO	Pelicans	-11	.86	106
+MEM	Grizzlies		.34	103
+MIL	Bucks	-4	.66	110
+LAL	Lakers		.40	100
+PHX	Suns	-2.5	.60	93
+MIN	Timberwolves		.39	109
+UTAH	Jazz	-3	.61	98
+DEN	Nuggets		.40	82
+POR	TrailBlazers	-2.5	.60	99
+ORL	Magic		.10	100
+GS	Warriors	-13	.90	110
+PHI	76ers		.36	109
+LAC	Clippers	-3.5	.64	105
+11/12/2017
+TOR	Raptors		.30	94
+BOS	Celtics	-5.5	.70	95
+MIA	Heat		.35	103
+DET	Pistons	-4	.65	112
+HOU	Rockets	-2	.59	118
+IND	Pacers		.41	95
+DAL	Mavericks		.10	99
+OKC	Thunder	-14	.90	112
+11/11/2017
+ATL	Hawks		.12	94
+WSH	Wizards	-12.5	.88	113
+LAC	Clippers		.31	103
+NO	Pelicans	-5	.69	111
+MEM	Grizzlies		.18	96
+HOU	Rockets	-9.5	.82	111
+SAC	Kings		.25	91
+NY	Knicks	-7	.75	118
+CHI	Bulls		.12	94
+SA	Spurs	-12	.88	133
+CLE	Cavaliers	-2	.58	111
+DAL	Mavericks		.42	104
+LAL	Lakers		.31	90
+MIL	Bucks	-5	.69	98
+PHI	76ers		.11	114
+GS	Warriors	-12.5	.89	135
+BKN	Nets		.18	106
+UTAH	Jazz	-9.5	.82	114
+MIN	Timberwolves	-5.5	.71	110
+PHX	Suns		.29	118
+ORL	Magic		.20	107
+DEN	Nuggets	-8.5	.80	125
+11/10/2017
+ATL	Hawks		.17	104
+DET	Pistons	-9.5	.83	111
+CHA	Hornets		.25	87
+BOS	Celtics	-6.5	.75	90
+IND	Pacers		.50	105
+CHI	Bulls	PK	.50	87
+LAC	Clippers		.30	111
+OKC	Thunder	-5	.70	120
+MIA	Heat		.26	84
+UTAH	Jazz	-6.5	.74	74
+MIL	Bucks		.25	94
+SA	Spurs	-7	.75	87
+ORL	Magic	-0.5	.51	128
+PHX	Suns		.49	112
+BKN	Nets		.17	101
+POR	TrailBlazers	-10	.83	97
+11/9/2017
+LAL	Lakers		.20	95
+WSH	Wizards	-8.5	.80	111
+NO	Pelicans		.33	118
+TOR	Raptors	-4.5	.67	122
+CLE	Cavaliers		.21	113
+HOU	Rockets	-8	.79	117
+PHI	76ers	-3	.62	108
+SAC	Kings		.38	109
+OKC	Thunder		.40	94
+DEN	Nuggets	-2.5	.60	102
+11/8/2017
+IND	Pacers		.26	97
+DET	Pistons	-6.5	.74	114
+NY	Knicks		.24	99
+ORL	Magic	-7	.76	112
+LAL	Lakers		.16	96
+BOS	Celtics	-10	.84	107
+MIA	Heat		.46	126
+PHX	Suns	-1	.54	115
+MIN	Timberwolves		.16	101
+GS	Warriors	-10.5	.84	125
+11/7/2017
+DAL	Mavericks		.16	113
+WSH	Wizards	-10	.84	99
+MIL	Bucks		.32	119
+CLE	Cavaliers	-4.5	.68	124
+NO	Pelicans		.45	117
+IND	Pacers	-1	.55	112
+CHA	Hornets		.50	113
+NY	Knicks	PK	.50	118
+CHI	Bulls		.15	114
+TOR	Raptors	-10.5	.85	119
+LAC	Clippers		.29	107
+SA	Spurs	-5.5	.71	120
+BKN	Nets		.10	104
+DEN	Nuggets	-13	.90	112
+PHI	76ers		.27	104
+UTAH	Jazz	-6	.73	97
+MEM	Grizzlies		.31	98
+POR	TrailBlazers	-5	.69	97
+OKC	Thunder	-8.5	.80	86
+SAC	Kings		.20	94
+11/6/2017
+BOS	Celtics	-6.5	.74	110
+ATL	Hawks		.26	107
+BKN	Nets		.37	98
+PHX	Suns	-3.5	.63	92
+MIA	Heat	.07	80
+GS	Warriors	-15.5	.93	97
+11/5/2017
+ATL	Hawks		.13	117
+CLE	Cavaliers	-11.5	.87	115
+MIA	Heat		.30	104
+LAC	Clippers	-5	.70	101
+BOS	Celtics		.49	104
+ORL	Magic	-0.5	.51	88
+WSH	Wizards		.33	107
+TOR	Raptors	-4.5	.67	96
+PHX	Suns		.16	95
+SA	Spurs	-10	.84	112
+UTAH	Jazz		.23	110
+HOU	Rockets	-7.5	.77	137
+IND	Pacers		.43	101
+NY	Knicks	-1.5	.57	108
+CHA	Hornets		.37	94
+MIN	Timberwolves	-3.5	.63	112
+OKC	Thunder	PK	.51	99
+POR	TrailBlazers		.49	103
+MEM	Grizzlies		.42	102
+LAL	Lakers	-2	.58	107
+11/4/2017
+MEM	Grizzlies		.27	113
+LAC	Clippers	-6	.73	104
+SAC	Kings		.22	99
+DET	Pistons	-7.5	.78	108
+DAL	Mavericks		.12	99
+MIN	Timberwolves	-12.5	.88	112
+NO	Pelicans	-2	.58	96
+CHI	Bulls		.42	90
+GS	Warriors	-3.5	.64	127
+DEN	Nuggets		.36	108
+11/3/2017
+CHI	Bulls		.14	105
+ORL	Magic	-11	.86	83
+CLE	Cavaliers		.34	130
+WSH	Wizards	-4	.66	122
+IND	Pacers		.35	110
+PHI	76ers	-4	.65	121
+MIL	Bucks		.43	96
+DET	Pistons	-2	.57	105
+HOU	Rockets	-8	.79	119
+ATL	Hawks		.21	104
+PHX	Suns		.36	107
+NY	Knicks	-3.5	.64	120
+CHA	Hornets		.37	101
+SA	Spurs	-3	.63	108
+NO	Pelicans	-2	.57	99
+DAL	Mavericks		.43	94
+MIA	Heat		.19	94
+DEN	Nuggets	-9	.81	95
+TOR	Raptors		.32	109
+UTAH	Jazz	-4.5	.68	100
+BOS	Celtics		.25	101
+OKC	Thunder	-7	.75	94
+BKN	Nets		.34	112
+LAL	Lakers	-4	.66	124
+11/2/2017
+GS	Warriors	-2.5	.59	112
+SA	Spurs		.41	92
+LAL	Lakers		.27	110
+POR	TrailBlazers	-6	.73	113
+11/1/2017
+ATL	Hawks		.19	109
+PHI	76ers	-9	.81	119
+IND	Pacers		.18	124
+CLE	Cavaliers	-9.5	.82	107
+MIL	Bucks		.27	121
+CHA	Hornets	-6	.73	126
+PHX	Suns		.15	122
+WSH	Wizards	-10.5	.85	116
+CHI	Bulls		.21	91
+MIA	Heat	-8	.79	97
+SAC	Kings	.09	86
+BOS	Celtics	-14	.91	113
+HOU	Rockets	-4	.66	119
+NY	Knicks		.34	97
+MIN	Timberwolves		.42	104
+NO	Pelicans	-2	.58	98
+ORL	Magic		.42	101
+MEM	Grizzlies	-2	.58	99
+POR	TrailBlazers		.30	103
+UTAH	Jazz	-5	.70	112
+TOR	Raptors		.34	111
+DEN	Nuggets	-4	.66	129
+DAL	Mavericks		.17	98
+LAC	Clippers	-10	.83	119
+10/31/2017
+SAC	Kings		.22	83
+IND	Pacers	-8	.78	101
+PHX	Suns		.35	122
+BKN	Nets	-3.5	.65	114
+OKC	Thunder	-1	.54	110
+MIL	Bucks		.46	91
+DET	Pistons		.49	93
+LAL	Lakers	-0.5	.51	113
+10/30/2017
+DEN	Nuggets	-1.5	.57	110
+NY	Knicks		.43	116
+MIN	Timberwolves		.49	125
+MIA	Heat	-0.5	.51	122
+SA	Spurs		.35	94
+BOS	Celtics	-4	.65	108
+CHA	Hornets		.33	104
+MEM	Grizzlies	-4.5	.67	99
+ORL	Magic		.27	115
+NO	Pelicans	-6	.73	99
+PHI	76ers		.16	115
+HOU	Rockets	-10	.84	107
+DAL	Mavericks		.14	89
+UTAH	Jazz	-11	.86	104
+TOR	Raptors		.34	99
+POR	TrailBlazers	-4	.66	85
+GS	Warriors	PK	.51	141
+LAC	Clippers		.49	113
+10/29/2017
+MIL	Bucks	-3	.62	117
+ATL	Hawks		.38	106
+SA	Spurs	-2.5	.60	94
+IND	Pacers		.40	97
+DEN	Nuggets	-2.5	.60	124
+BKN	Nets		.40	111
+ORL	Magic		.35	113
+CHA	Hornets	-3.5	.65	120
+WSH	Wizards	-4.5	.67	110
+SAC	Kings		.33	83
+NY	Knicks		.18	114
+CLE	Cavaliers	-9	.82	95
+DET	Pistons	.08	115
+GS	Warriors	-15	.92	107
+10/28/2017
+CLE	Cavaliers	PK	.50	101
+NO	Pelicans		.50	123
+BOS	Celtics		.49	96
+MIA	Heat	PK	.51	90
+HOU	Rockets	-1.5	.56	89
+MEM	Grizzlies		.44	103
+OKC	Thunder	-5.5	.71	101
+CHI	Bulls		.29	69
+PHI	76ers		.47	112
+DAL	Mavericks	-0.5	.53	110
+LAL	Lakers		.14	81
+UTAH	Jazz	-11.5	.86	96
+PHX	Suns		.16	107
+POR	TrailBlazers	-10	.84	114
+DET	Pistons		.19	95
+LAC	Clippers	-9	.81	87
+10/27/2017
+HOU	Rockets	-1	.54	109
+CHA	Hornets		.46	93
+SA	Spurs	-1	.55	87
+ORL	Magic		.45	114
+BKN	Nets		.41	86
+NY	Knicks	-2.5	.59	107
+DEN	Nuggets	-5.5	.71	105
+ATL	Hawks		.29	100
+OKC	Thunder		.50	116
+MIN	Timberwolves	PK	.50	119
+TOR	Raptors	-1	.54	101
+LAL	Lakers		.46	92
+WSH	Wizards		.16	117
+GS	Warriors	-10	.84	120
+10/26/2017
+ATL	Hawks		.37	86
+CHI	Bulls	-3.5	.63	91
+BOS	Celtics		.38	96
+MIL	Bucks	-3	.62	89
+DAL	Mavericks		.24	91
+MEM	Grizzlies	-7	.76	96
+LAC	Clippers		.40	104
+POR	TrailBlazers	-2.5	.60	103
+NO	Pelicans	-3	.61	114
+SAC	Kings		.39	106
+10/25/2017
+DEN	Nuggets		.39	93
+CHA	Hornets	-2.5	.61	110
+HOU	Rockets	-3.5	.64	105
+PHI	76ers		.36	104
+MIN	Timberwolves		.48	101
+DET	Pistons	-0.5	.52	122
+CLE	Cavaliers	-5.5	.71	107
+BKN	Nets		.29	112
+IND	Pacers		.11	96
+OKC	Thunder	-12.5	.89	114
+SA	Spurs	-1	.55	117
+MIA	Heat		.45	100
+MEM	Grizzlies	-1	.55	94
+DAL	Mavericks		.45	103
+UTAH	Jazz	-1.5	.56	88
+PHX	Suns		.44	97
+TOR	Raptors		.15	112
+GS	Warriors	-10.5	.85	117
+WSH	Wizards	-2	.58	99
+LAL	Lakers		.42	102
+10/24/2017
+BKN	Nets		.24	121
+ORL	Magic	-7	.76	125
+CHI	Bulls	.09	112
+CLE	Cavaliers	-14	.91	119
+NY	Knicks		.18	89
+BOS	Celtics	-9	.82	110
+IND	Pacers		.14	130
+MIN	Timberwolves	-11	.86	107
+NO	Pelicans		.33	93
+POR	TrailBlazers	-4.5	.67	103
+UTAH	Jazz		.35	84
+LAC	Clippers	-4	.65	102
+10/23/2017
+PHI	76ers		.37	97
+DET	Pistons	-3	.63	86
+ATL	Hawks		.17	93
+MIA	Heat	-10	.83	104
+CHA	Hornets		.36	94
+MIL	Bucks	-3.5	.64	103
+MEM	Grizzlies		.15	98
+HOU	Rockets	-10.5	.85	90
+GS	Warriors	-9	.82	133
+DAL	Mavericks		.18	103
+TOR	Raptors		.28	97
+SA	Spurs	-6	.72	101
+WSH	Wizards		.28	109
+DEN	Nuggets	-5.5	.72	104
+SAC	Kings		.34	115
+PHX	Suns	-4	.66	117
+10/22/2017
+ATL	Hawks		.33	104
+BKN	Nets	-4.5	.67	116
+MIN	Timberwolves		.35	115
+OKC	Thunder	-4	.65	113
+NO	Pelicans		.50	119
+LAL	Lakers	PK	.50	112
+10/21/2017
+PHI	76ers		.22	94
+TOR	Raptors	-7.5	.78	128
+DAL	Mavericks	.08	91
+HOU	Rockets	-15	.92	107
+DET	Pistons		.38	111
+NY	Knicks	-3	.62	107
+GS	Warriors	-5	.70	101
+MEM	Grizzlies		.30	111
+IND	Pacers		.22	108
+MIA	Heat	-8	.78	112
+ORL	Magic		.15	114
+CLE	Cavaliers	-11	.85	93
+SA	Spurs	-6	.72	87
+CHI	Bulls		.28	77
+POR	TrailBlazers		.42	110
+MIL	Bucks	-2	.58	113
+OKC	Thunder	-0.5	.52	87
+UTAH	Jazz		.48	96
+SAC	Kings	.09	79
+DEN	Nuggets	-14	.91	96
+PHX	Suns		.12	88
+LAC	Clippers	-12.5	.88	130
+10/20/2017
+ATL	Hawks		.17	91
+CHA	Hornets	-9.5	.83	109
+BOS	Celtics		.45	102
+PHI	76ers	-1	.55	92
+CLE	Cavaliers	-0.5	.52	116
+MIL	Bucks		.48	97
+DET	Pistons		.23	111
+WSH	Wizards	-7.5	.77	115
+POR	TrailBlazers	-1	.55	114
+IND	Pacers		.45	96
+ORL	Magic		.49	121
+BKN	Nets	PK	.51	126
+UTAH	Jazz		.32	97
+MIN	Timberwolves	-4.5	.68	100
+SAC	Kings		.29	93
+DAL	Mavericks	-5.5	.71	88
+GS	Warriors	-4.5	.68	128
+NO	Pelicans		.32	120
+LAL	Lakers		.34	132
+PHX	Suns	-4	.66	130
+10/19/2017
+CHI	Bulls		.16	100
+TOR	Raptors	-10	.84	117
+NY	Knicks		.10	84
+OKC	Thunder	-13.5	.90	105
+LAC	Clippers	-1.5	.57	108
+LAL	Lakers		.43	92
+10/18/2017
+BKN	Nets		.32	131
+IND	Pacers	-4.5	.68	140
+CHA	Hornets	-0.5	.52	90
+DET	Pistons		.48	102
+MIA	Heat		.40	109
+ORL	Magic	-2.5	.60	116
+PHI	76ers		.28	115
+WSH	Wizards	-6	.72	120
+MIL	Bucks		.41	108
+BOS	Celtics	-2.5	.59	100
+NO	Pelicans		.47	91
+MEM	Grizzlies	-0.5	.53	103
+ATL	Hawks		.28	117
+DAL	Mavericks	-6	.72	111
+DEN	Nuggets		.34	96
+UTAH	Jazz	-4	.66	106
+MIN	Timberwolves		.36	99
+SA	Spurs	-3.5	.64	107
+HOU	Rockets	-7	.76	105
+SAC	Kings		.24	100
+POR	TrailBlazers	PK	.51	124
+PHX	Suns		.49	76
+10/17/2017
+BOS	Celtics		.24	99
+CLE	Cavaliers	-7	.76	102
+HOU	Rockets		.25	122
+GS	Warriors	-6.5	.75	121
